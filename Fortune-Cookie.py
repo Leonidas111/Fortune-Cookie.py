@@ -12,7 +12,7 @@ def run():
 
                      .="=.
                 /\_ /|- -|\ _/\             ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
-                \_//O\_+_/O\\_/             * I INFORM YOU THAT YOU HAVE 3 OPTIONS:
+                \_//O\_+_/O\\_/              ㉼ I INFORM YOU THAT YOU HAVE 3 OPTIONS:
                  \\\/`°°°`\///                 1) OPEN A FORTUNE COOKIE
                   \   ($)   /                 2) ADD YOUR FAVORITE SENTENCE TO A COOKIE
                  ./---/_\---\.                3) GET OUT OF HERE, WITHOUT KNOWING YOUR FORTUNE
