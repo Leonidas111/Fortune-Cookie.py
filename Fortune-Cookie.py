@@ -6,9 +6,10 @@ import pyfiglet
 
 
 def run():
-    ficookie = pyfiglet.figlet_format("FORTUNE COOKIE")
+    ficookie = pyfiglet.figlet_format("FORTUNE-COOKIE")
     print(ficookie)
     menu = """ 特殊絵文字さんツふぁぼ字  HELLO, WELCOME TO CHINA  特殊絵文字さん レッツふぁぼ字さんレ
+
                      .="=.
                 /\_ /|- -|\ _/\             ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
                 \_//O\_+_/O\\_/             * I INFORM YOU THAT YOU HAVE 3 OPTIONS:
