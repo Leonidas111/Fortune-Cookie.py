@@ -26,11 +26,11 @@ def run():
             phraserandom = random.choice(pr.readlines())
             print("\n")
             name = str(input("NAME: ")).capitalize()
-            print("THREE")
+            print("3")
             time.sleep(1)
-            print("TWO")
+            print("2")
             time.sleep(1)
-            print("ONE...")
+            print("1 ...")
             print(str(name) +" "+ str(phraserandom))
     if option == 2:
         with open ("./phrases.txt","a",encoding="utf-8") as ap:
